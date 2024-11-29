@@ -1,3 +1,6 @@
 # assignment_2
 
-A new Flutter project.
+## Groupe B
+## Rebin Rafiq Salih
+## Aland Karzan
+## Namo Hussein
